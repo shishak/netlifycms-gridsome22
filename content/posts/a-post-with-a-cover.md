@@ -5,7 +5,7 @@ published: true
 tags:
   - Markdown
   - Cover Image
-cover_image: ../../static/images/uploads/tumblr_cec8fcc367d4c59900e0f88584c2a4cf_fe51c9b0_1280.jpg
+cover_image: ../../static/images/uploads/tumblr_6abbeffa32ae74a7b0b0f5b2419c9470_7dcea2ef_1280.jpg
 description: Markdown is intended to be as easy-to-read and easy-to-write as is
   feasible. Readability, however, is emphasized above all else. A
   Markdown-formatted document should be publishable as-is, as plain text,
